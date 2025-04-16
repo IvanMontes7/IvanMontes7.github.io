@@ -56,5 +56,5 @@ Mi objetivo es integrarme en proyectos donde pueda seguir aprendiendo, aportar v
 - [ivanmontes.3389@gmail.com](#)
 ---
 
-Gracias por visitar mi portafolio 😊  
+Gracias por visitar mi portafolio 
 *Siempre estoy disponible a colaborar en nuevos proyectos.*
