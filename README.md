@@ -45,9 +45,9 @@ Mi objetivo es integrarme en proyectos donde pueda seguir aprendiendo, aportar v
   Diseño, cálculo, planos y automatización completa.  
   _AutoCAD, PLC, SCADA_  
 
-- **Base de datos para gestión de almacén**  
-  Registro y seguimiento de inventario, requisiciones y órdenes de compra.  
-  _PostgreSQL, análisis con Python_
+- **Automatización de sistema de bombeo de agua helada**  
+  Instrumentación, programación de PLC, Gestión de proyectos  
+  
 
 ---
 ## 📬 Contacto
