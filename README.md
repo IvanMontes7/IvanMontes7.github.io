@@ -24,7 +24,15 @@ Mi objetivo es integrarme en proyectos donde pueda seguir aprendiendo, aportar v
 - Elaboración de planos en AutoCAD (eléctricos y mecánicos)  
 - Integración de SCADA e instrumentación  
 - Organización de almacenes con metodología 5S  
-- Automatización de procesos industriales  
+- Automatización de procesos industriales
+
+### 🤝 Habilidades Blandas  
+- Pensamiento analítico y enfoque en la resolución de problemas  
+- Comunicación efectiva con equipos multidisciplinarios  
+- Organización y manejo de múltiples tareas y proyectos  
+- Adaptabilidad y disposición al aprendizaje continuo  
+- Trabajo colaborativo y orientación a resultados  
+- Liderazgo técnico y apoyo en procesos de mejora continua  
 
 ---
 
