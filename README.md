@@ -2,9 +2,11 @@
 
 **Ingeniero en Automatización con enfoque en Análisis de Datos**
 
-Soy Ingeniero en Control y Automatización con más de 4 años de experiencia en diseño y automatización de sistemas HVAC. Actualmente estoy desarrollándome como analista de datos, combinando mis conocimientos técnicos e industriales con herramientas como Python, SQL y Tableau para generar soluciones basadas en datos.
+Soy Ingeniero en Control y Automatización con más de 4 años de experiencia en el diseño y automatización de sistemas HVAC, especializado en la optimización de procesos técnicos e industriales. Recientemente he complementado mi perfil profesional con formación en análisis y visualización de datos, aplicando herramientas como Python, SQL y Tableau.
 
-Mi objetivo es integrarme en proyectos donde pueda seguir aprendiendo, aportar valor a través del análisis de datos y crecer profesionalmente en esta nueva área.
+He comenzado a implementar estas habilidades en la gestión y análisis de bases de datos relacionadas con costos, gastos y presupuestos, así como en la planeación económica de proyectos y la supervisión de personal.
+
+Busco contribuir en proyectos donde la intersección entre la ingeniería y el análisis de datos permita optimizar procesos, mejorar resultados y generar valor tangible para la organización.
 
 ---
 
