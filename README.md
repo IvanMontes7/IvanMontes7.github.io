@@ -60,7 +60,7 @@ Resultado final de una arquitectura de datos end-to-end que integra extracción 
 `Python` • `SQL` • `PostgreSQL` • `DAX` • `ETL` • `Business Intelligence`
 ---
 
-# Objetivo Profesional
+#### Objetivo Profesional
 
 Mi objetivo es desarrollarme profesionalmente como Data Engineer, participando en proyectos relacionados con el diseño de pipelines de datos, arquitecturas modernas de información y soluciones analíticas que generen valor para el negocio.
 
