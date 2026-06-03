@@ -1,16 +1,37 @@
-### Acerca de mi
+<!--
+**IvanMontes7/IvanMontes7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are some ideas to get you started:
 
-## Data Engineering | Business Intelligence | Automatización
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
-Soy Ingeniero en Control y Automatización con experiencia en diseño de sistemas HVAC, automatización de procesos y desarrollo de soluciones orientadas a datos.
+#### Acerca de mi
+Data Engineer Jr | Business Intelligence | Ingeniero en Control y Automatización
+---
 
-Actualmente me encuentro especializándome en Ingeniería de Datos y Business Intelligence, desarrollando proyectos que abarcan todo el ciclo de vida de los datos: desde la extracción y transformación de información hasta la construcción de Data Warehouses, modelos analíticos y dashboards ejecutivos.
+Ingeniero en Control y Automatización con experiencia en optimización de procesos y análisis de información para la toma de decisiones. Actualmente enfocado en Ingeniería de Datos y Business Intelligence, desarrollando soluciones end-to-end que integran ETL, Data Warehousing, modelado analítico y visualización de datos.
 
-Mi enfoque está en diseñar soluciones que permitan transformar datos en información útil para la toma de decisiones estratégicas.
+#### Tecnologías
+---
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![ETL](https://img.shields.io/badge/ETL-Data_Pipelines-blue?style=flat-square)
+![Data Warehouse](https://img.shields.io/badge/Data_Warehouse-Star_Schema-success?style=flat-square)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-## Actualmente me encuentro desarrollando una solución end-to-end para análisis financiero y operativo. El cual contiene las siguientes etapas
+### Actualmente
+#### me encuentro desarrollando una solución end-to-end para análisis financiero y operativo. El cual contiene las siguientes etapas      
 
 - Diseño y modelado de la base de datos para centralizar información financiera y operativa.
 - Desarrollo de pipelines ETL para extracción, transformación y carga de datos con python.
@@ -24,77 +45,19 @@ Mi enfoque está en diseñar soluciones que permitan transformar datos en inform
 
 ---
 
-### Tecnologías y Herramientas
+###  Proyecto
 
-`Ingeniería de Datos`
+#### Financial BI Data Warehouse
 
-- Python
-- SQL
-- PostgreSQL
-- ETL
-- Data Pipelines
-- APIs
-- Data Modeling
-- Data Warehouse
+Pipeline ETL → PostgreSQL → Modelo Estrella → Power BI
 
-`Business Intelligence`
-
-- Power BI
-- DAX
-
-`Análisis de Datos`
-
-- Pandas
-- Exploratory Data Analysis (EDA)
-- Data Cleaning
-- Data Validation
-
-`Ingeniería y Automatización`
-
-- HVAC Design
-- PLC Programming
-- SCADA
-- Instrumentación
-- AutoCAD
-
----
-
-# Proyecto Destacado
-
-### Financial BI Data Warehouse
-
-Desarrollo de una solución integral para centralizar información financiera y operativa mediante una arquitectura de datos compuesta por:
-
-- Extracción de datos desde Google Sheets mediante API
-- Pipeline ETL desarrollado en Python
-- Capa RAW para trazabilidad de información
-- Transformación y validación de datos
-- PostgreSQL como Data Warehouse
-- Modelo estrella para análisis financiero
-- Dashboards ejecutivos en Power BI
+Resultado final de una arquitectura de datos end-to-end que integra extracción mediante APIs, procesos ETL en Python, modelado dimensional en PostgreSQL y visualización en Power BI. El dashboard facilita el análisis financiero y operativo mediante métricas confiables y centralizadas.
 
 <p align="center">
   <img src="dashboard_ejecutivo_financiero.jpg" width="900">
 </p>
 
-##### Tecnologías utilizadas
-
-`Python` · `PostgreSQL` · `SQL` · `Power BI` · `DAX` · `ETL` · `Data Warehouse`
-
----
-
-# Áreas de Interés
-
-Actualmente enfocado en fortalecer conocimientos en:
-
-- Data Engineering
-- Cloud Computing
-- Data Warehousing
-- Analytics Engineering
-- Data Governance
-- Business Intelligence
-- Arquitecturas de Datos
-
+`Python` • `SQL` • `PostgreSQL` • `DAX` • `ETL` • `Business Intelligence`
 ---
 
 # Objetivo Profesional
@@ -105,16 +68,12 @@ Busco seguir creciendo en tecnologías de nube, automatización de procesos ETL 
 
 ---
 
-# Contacto
+#### 📫 Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ivan_Montes-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivanmontes-ing)
 
 [![Email](https://img.shields.io/badge/Email-ivanmontes.3389%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:ivanmontes.3389@gmail.com)
 
-📍 **Ubicación**
+📍 Ciudad de México
 
-Ciudad de México, México
 
----
-
-Gracias por visitar mi portafolio. Siempre estoy abierto a colaborar en proyectos relacionados con Ingeniería de Datos, Business Intelligence y Analítica.
