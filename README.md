@@ -79,24 +79,6 @@ Desarrollo de una solución integral para centralizar información financiera y 
 
 ---
 
-# 📊 Evidencia del Proyecto
-
-## Dashboard Ejecutivo
-
-![Dashboard Ejecutivo](images/dashboard_ejecutivo.png)
-
----
-
-## Arquitectura ETL
-
-![Arquitectura ETL](images/arquitectura_etl.png)
-
----
-
-## Modelo Estrella
-
-![Modelo Estrella](images/modelo_estrella.png)
-
 ---
 
 # 📈 Áreas de Interés
