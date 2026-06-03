@@ -1,4 +1,4 @@
-# 👋 Hola, soy Ivan Montes
+# Acerca de mi
 
 ### Data Engineering | Business Intelligence | Automatización
 
